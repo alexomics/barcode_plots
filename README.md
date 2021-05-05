@@ -1,15 +1,15 @@
-# README
+# barcode plots
 
+Requires:
 ---
 
-### Requires:
-
-```python
+```
 python>=3.6
 seaborn>=0.11.1
 ```
 
-### Dataset overiew:
+Dataset overiew:
+---
 
 CSV file consists of three subsets of sequencing summary files. The control is
 just from the last hour of sequencing for that experiment as the experimental
